@@ -1,0 +1,47 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.painting {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    margin: 300px;
+    border: 1em solid black;
+    padding: 25px;
+}
+
+.top {
+    width: 100px;
+    border: 5px solid brown;
+    border-radius: 100px;
+    padding: 2em;
+    background-color: black;
+
+}
+
+.bottom {
+    width: 200px;
+    border: 5px solid blue;
+    border-radius: 100px;
+    padding: 2em;
+    background-color: black;
+}
+
+.left {
+    width: 300px;
+    border: 5px solid brown;
+    border-radius: 100px;
+    padding: 2em;
+    background-color: black;
+}
+
+.right {
+    width: 400px;
+    border: 5px solid blue;
+    border-radius: 100px;
+    padding: 2em;
+    background-color: black;
+
+}
