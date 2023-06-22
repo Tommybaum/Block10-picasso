@@ -1,1 +1,3 @@
 the html file labeled "workshop" is where my workshop block 10 picasso painting project will be found. the css stylesheet is only linked to that project.
+The basic fundamentals of this project I somewhat understand, but as far as fitting the page to different screen sizes, I still need to work on and do some more research on how that works, because I really am just unsure at this time on how to appy that.
+The only other thing I felt like I was confused on was the z index. I could not get it to do anything no matter what I tried, so I will have to do some more work on that as well.
