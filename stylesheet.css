@@ -43,5 +43,21 @@ body {
     border-radius: 100px;
     padding: 2em;
     background-color: black;
+    display:flex;
 
+}
+
+.inside {
+    width: 600px;
+    height:200px;
+    border: 10px solid burlywood;
+    border-radius: 100%;
+    padding: 1em;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+div {
+    border:10px solid green;
+    padding:3em;
+    background-color:grey;
 }
